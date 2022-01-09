@@ -13,3 +13,7 @@
 > Simulando um ERRO:
 
 ![image](https://user-images.githubusercontent.com/75676327/148663922-1dc8450f-0df0-46fc-9848-d71994ec0a08.png)
+
+> Verificando se o código está "bonito" com o comando STYLE50, e checando a funcionalidade do código com o comando CHECK50:
+
+![image](https://user-images.githubusercontent.com/75676327/148687048-c700bb5d-7d74-458c-8fff-b2bacce05b05.png)
