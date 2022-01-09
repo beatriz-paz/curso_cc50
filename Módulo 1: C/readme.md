@@ -17,3 +17,8 @@
 > Verificando se o código está "bonito" com o comando STYLE50, e checando a funcionalidade do código com o comando CHECK50:
 
 ![image](https://user-images.githubusercontent.com/75676327/148687048-c700bb5d-7d74-458c-8fff-b2bacce05b05.png)
+
+> Alguns comandos do terminal:
+
+![image](https://user-images.githubusercontent.com/75676327/148697656-84019f8e-98fb-44c4-a2e8-024860ae1218.png)
+
