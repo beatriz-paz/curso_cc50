@@ -10,3 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/75676327/148663358-b28d014b-b111-47c8-8436-742ef6d74a08.png)
 
+> Simulando um ERRO:
+
+![image](https://user-images.githubusercontent.com/75676327/148663922-1dc8450f-0df0-46fc-9848-d71994ec0a08.png)
