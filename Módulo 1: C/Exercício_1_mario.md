@@ -6,7 +6,7 @@
 
 "Vamos recriar essa pirâmide em C, ainda que em texto, usando hashes ( # ) para tijolos, como visto a seguir. Cada hash é um pouco mais alto do que largo, então a pirâmide em si também é mais alta do que larga."
 
------ COMANDOS USADOS - SINTAXE ----------
+## COMANDOS USADOS - SINTAXE 
 
 ![image](https://user-images.githubusercontent.com/75676327/149640650-8065f706-a7a2-46c2-88e2-eb7a3daf5de6.png)
 ![image](https://user-images.githubusercontent.com/75676327/149640657-30f4bf0a-bd23-4cb8-a921-aa15c71f22e8.png)
@@ -16,3 +16,8 @@
 ------ // -----------
 
 ![image](https://user-images.githubusercontent.com/75676327/149641078-27c87362-0ba1-48ec-9880-9991cf989c76.png)
+
+
+### Exercício pronto:
+
+![image](https://user-images.githubusercontent.com/75676327/149642792-ed5a120c-4c30-4030-a269-85d1ea98c683.png)
